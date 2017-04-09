@@ -1,7 +1,7 @@
 { "name" : "xmlrpc-modular"
 , "description" : "A pure JavaScript XML-RPC client and server, more modular"
 , "keywords" : [ "xml-rpc", "xmlrpc", "xml", "rpc" ]
-, "version" : "1.4"
+, "version" : "1.4.1"
 , "preferGlobal" : false
 , "homepage" : "https://github.com/rchrdschfr/node-xmlrpc"
 , "author" : "Brandon Alexander <baalexander@gmail.com> (https://github.com/baalexander)"
